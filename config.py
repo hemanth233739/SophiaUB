@@ -1,7 +1,7 @@
 
 
 # VARIABLES
-OWNER_ID = 5965055071
+OWNER_ID = 7074356361
 
 # SETTINGS 
 Do_you_need_warnings = False # You will Get some Warning messages Using by some Commands. if you don't like change it False.
